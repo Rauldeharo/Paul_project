@@ -1,3 +1,4 @@
 Contents of file 2
 New line in this file
 Another line added by Alice
+Again, new line added by Alice
